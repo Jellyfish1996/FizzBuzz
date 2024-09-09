@@ -363,7 +363,7 @@ And that's it for the first lab activity of the term!
 - [ ] Check with those around you to see how many commits you each made during the lab. You can view the log of commits on GitHub or
       use the `git log` command to view a summary of the commits to the repository.
 
-## Coding homework for this week
+## Coding homework for this weeK
 See the Week 2 module on Quercus for how to get started on the part of the homework related to the above two problems.
 
 ## Learning Java
